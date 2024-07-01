@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Road Accident Dashboard<br><br>🌱 I’m currently learning My sql, Power Bi<br><br>💬 Ask me about Sql, Ms-Excel, Python, Numpy, Pandas, Matplotlib, Seaborn<br><br>📫 How to reach me dsingathala@gmail.com<br><br>⚡ Fun fact I am Funny<br><br><br>
+🔭 I’m currently working on SQL Projects<br><br>🌱 I’m currently learning My sql, Power Bi<br><br>💬 Ask me about Sql, Ms-Excel, Python, Numpy, Pandas, Matplotlib, Seaborn<br><br>📫 How to reach me dsingathala@gmail.com<br><br>⚡ Fun fact I am Funny<br><br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshreddy7872&label=Profile%20views&color=0e75b6&style=flat" 
 alt="dineshreddy7872" /> </p>
 
