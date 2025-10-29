@@ -1,4 +1,4 @@
-[![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
+[![MasterHead](https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif)
 <h1 align="center">Hi 👋, I'm Dinesh Reddy</h1>
 <h3 align="center">I’m passionate about solving real-world problems through data-driven insights and building AI-powered solutions that make an impact. Currently exploring advanced AI, ML, and MLOps workflows — from model training to deployment and monitoring.</h3>
 <img align="right" alt="Coding" width="400" src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1">
