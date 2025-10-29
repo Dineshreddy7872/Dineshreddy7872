@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://github.com/Dineshreddy7872/Dineshreddy7872/blob/main/GitHub_Banner.png"> </div>
+<div align="center"> <img src="[https://github.com/Dineshreddy7872/Dineshreddy7872/blob/main/GitHub_Banner.png](https://i.pinimg.com/originals/c7/c6/f7/c7c6f7e8b3506ea46261ab7b55fc9faf.gif)"> </div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=50&duration=3500&lines=Hey+Everyone!+👋;+I'm+Dinesh+Singathala;" />
 </h1>
